@@ -14,6 +14,15 @@ Este proyecto busca predecir qué clientes de una empresa de telecomunicaciones 
 
 ---
 
+
+## 🌐 Aplicación Interactiva
+
+Como extensión del proyecto, desarrollamos una aplicación interactiva con Streamlit para predecir el churn en tiempo real a partir de datos ingresados por el usuario.
+
+👉 [Abrir app de predicción de churn](https://proyectofinal-bbozmrflodhkwrti5nhgpw.streamlit.app/)
+
+---
+
 ## 🎯 Objetivo del Proyecto
 
 Detectar de manera anticipada qué clientes podrían abandonar la empresa para que el área comercial pueda tomar acciones preventivas de fidelización.
